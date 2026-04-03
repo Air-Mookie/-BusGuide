@@ -1,0 +1,13 @@
+{
+  "busan": {
+    "label": "부산",
+    "presets": [
+      {"name": "명지병원", "icon": "hospital"},
+      {"name": "해운대", "icon": "beach"},
+      {"name": "서면", "icon": "shopping"},
+      {"name": "부산역", "icon": "train"},
+      {"name": "센텀시티", "icon": "building"},
+      {"name": "남포동", "icon": "market"}
+    ]
+  }
+}
